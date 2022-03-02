@@ -37,4 +37,5 @@ You should be all set now!
 ## Walkthrough Video
 
 part 1: https://drive.google.com/file/d/1dziXR1K39POR5UAkrKQoZFcYEj0cxeOI/view
+
 part 2: https://drive.google.com/file/d/1dFVlWl9NcwV1fFP8X9WF86JUzFlxi5_1/view
